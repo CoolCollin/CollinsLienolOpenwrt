@@ -11,6 +11,12 @@
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 
-
-git clone https://github.com/kenzok8/litte.git
+#git clone https://github.com/kenzok8/litte.git
 git clone https://github.com/kenzok8/openwrt-packages.git
+
+
+
+cd package
+git clone https://github.com/kenzok8/small.git
+git clone https://github.com/kenzok8/litte.git
+cd ..
