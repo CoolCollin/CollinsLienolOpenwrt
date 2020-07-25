@@ -1,6 +1,5 @@
 
 src-git kenzo https://github.com/kenzok8/openwrt-packages
-src-git lienol https://github.com/Lienol/openwrt-package
 #src-git small https://github.com/kenzok8/small
 src-git little https://github.com/kenzok8/litte.git
 
